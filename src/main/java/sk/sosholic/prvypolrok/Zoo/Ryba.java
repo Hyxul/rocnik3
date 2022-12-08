@@ -18,5 +18,6 @@ public class Ryba extends Zviera {
 		return "Ryba{" +
 				"typVody='" + typVody + '\'' +
 				'}';
+		//caute
 	}
 }
