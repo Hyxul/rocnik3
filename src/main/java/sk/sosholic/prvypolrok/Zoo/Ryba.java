@@ -19,6 +19,4 @@ public class Ryba extends Zviera {
 				"typVody='" + typVody + '\'' +
 				'}';
 	}
-
-	//komentar na git
 }
